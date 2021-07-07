@@ -25,7 +25,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Project
+          - Projects
           - Sponsorship
           - Other
         is_required: true
