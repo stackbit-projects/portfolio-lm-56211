@@ -25,7 +25,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - Project
           - Sponsorship
           - Other
         is_required: true
