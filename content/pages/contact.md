@@ -6,8 +6,7 @@ sections:
     type: section_form
     content: >
       Thank you so much for your interest in working together. Please fill the
-      contact form below or send your message to
-      [reach.liminchong@gmail.com](mailto:example@example.com).
+      contact form below and I will get back to you soon! :)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
