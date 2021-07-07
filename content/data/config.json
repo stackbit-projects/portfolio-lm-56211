@@ -65,7 +65,7 @@
                 "new_window": true
             },
             {
-                "label": "Let's talk! Email me at <a href=\"mailto:webmaster@example.com\"></a>",
+                "label": "Let's talk! Email me at <a href=\"mailto:webmaster@example.com\">Email me</a>",
                 "url": "reach.liminchong@gmail.com",
                 "style": "link",
                 "icon": "dribbble",
