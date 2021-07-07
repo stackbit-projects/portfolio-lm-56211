@@ -63,15 +63,6 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "<a href=\"mailto: reach.liminchong@gmail.com\">Let's work together!</a>",
-                "url": "reach.liminchong@gmail.com",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
