@@ -29,6 +29,7 @@ sections:
           - Sponsorship
           - Other
           - lorem-ipsum
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
