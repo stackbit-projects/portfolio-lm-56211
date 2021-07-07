@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: "Hi there\U0001F64B I'm Limin."
     content: |
-      I am a UI/UX designer.
+      I am a UI/UX designer from the tropics of S.E.Asia.
     actions:
       - label: Let's talk
         url: /contact
