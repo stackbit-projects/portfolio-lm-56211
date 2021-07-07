@@ -28,7 +28,6 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: message
