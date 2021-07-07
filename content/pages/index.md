@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi there\U0001F64B I'm Limin."
+    title: "Hi there!\U0001F64B I'm Limin."
     content: |
       I am a UI/UX designer from the tropics of S.E.Asia.
     actions:
