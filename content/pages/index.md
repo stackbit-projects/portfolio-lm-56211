@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: "Hi there\U0001F64B I'm Limin."
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      I am a UI/UX designer.
     actions:
       - label: Let's talk
         url: /contact
